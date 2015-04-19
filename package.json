@@ -1,0 +1,31 @@
+{
+  "name": "poet",
+  "version": "0.0.0",
+  "description": "A natural language poem generator using scraped poems",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/berwin7996/poet.git"
+  },
+  "keywords": [
+    "poem",
+    "nlp",
+    "scraping",
+    "scrape",
+    "poetry"
+  ],
+  "author": "berwin",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/berwin7996/poet/issues"
+  },
+  "dependencies": {
+    "express": "~4.12.3"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5"
+  }
+}
