@@ -1,0 +1,10 @@
+import lxml
+from lxml import html
+import requests
+
+links = {
+			'poetryfoundation':'http://www.poetryfoundation.org/poem/',	
+		}
+
+for site, url in links.iteritems():
+	print 'scraping', site, 'at url', url
