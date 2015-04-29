@@ -1,0 +1,8 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+	// Controls the font size.
+	"editor.fontSize": 10,
+
+	// Controls the line height.
+	"editor.lineHeight": 0.9,
+}
